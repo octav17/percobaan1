@@ -8,6 +8,5 @@ public class ContohKondisi {
         /* type of kondisi 
         is boolean*/
         boolean kondisi;
-        
         kondisi= (1+1) == 2 && 2>1;
         // we have 2 condition here
