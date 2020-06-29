@@ -42,11 +42,6 @@ public class Percabangan {
         }
         txt_hasil.setText(bilangan);
     }
-    private void bt_0ActionPerformed(java.awt.event.ActionEvent evt) {                                     
-        // TODO add your handling code here:
-        bil +="nilai"; // nilai ganti dengan angka 0, 1, 1         
-        txt_hasil.setText(bil); // menampilkan angka kedalam jTextField
-    }
 }
 /**
  * Compares two {@code int} values numerically.
