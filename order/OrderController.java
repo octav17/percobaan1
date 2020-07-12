@@ -10,6 +10,3 @@ public class ContohKondisi {
         is boolean*/
         
         // we have 2 condition here
-    
-    }
-}
